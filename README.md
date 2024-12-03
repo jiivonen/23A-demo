@@ -1,5 +1,4 @@
 # 23A-demo
 
-- Lisään rivin readme-tiedostoon.
-- Muokataan paikallisesti VS Codella.
-- Muokataan GitHubin editorilla.
+- Esimerkki JSON-tiedoston käytöstä JavaScriptissä
+- Toimii ainakin Chrome-selaimella
